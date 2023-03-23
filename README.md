@@ -5,6 +5,7 @@
 
 <h2 align="center">Установка</h2>
 Используйте <code>requirements.txt</code> или подготовьте окружение самостоятельно, установив необходимые библиотеки:
+
 <pre>
 pip install requests
 pip install bs4
