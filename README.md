@@ -1,7 +1,12 @@
 
-ВАЖНО:
+Используйте <code>requirements.txt</code> или подготовьте окружение самостоятельно, установив необходимые библиотеки
+<pre>
+pip install requests
+pip install bs4
+pip install lxml
+pip install fake_useragent
+</pre>
 
-  requirements.txt
 ___________________________________________________________
 
 Скрипт запускатеся из консоли следующим образом:
