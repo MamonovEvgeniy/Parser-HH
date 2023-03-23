@@ -17,6 +17,7 @@ pip install fake_useragent
 Скрипт запускатеся из консоли следующим образом:
 <pre>python main.py</pre>
 <h2 align="center">Результат</h2>
+
 Результат выполнения скрипта записывается в файл <code>data.json</code> и содержит следующее:
 
 •	Название вакансии;
@@ -30,4 +31,3 @@ pip install fake_useragent
 •	Теги;
 
 •	Ссылка на вакансию.
-
